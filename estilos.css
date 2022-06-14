@@ -75,6 +75,11 @@ li {
     display: inline;
     border-radius: 7px;
 }
+p {
+    color: aliceblue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .degrade{
     background-image: linear-gradient(rgb(228, 58, 157) 20%, cyan);
 }
